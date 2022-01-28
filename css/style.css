@@ -263,3 +263,113 @@
     font-size: 72px;
     color: #049FF6;
 }
+
+.section_4{
+     margin-top: 40px;
+     text-align: center;
+}
+
+.section_4 .top_heading {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.section_4 .top_heading span{
+    font-family: 'poppins', sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    color: #049FF6;
+    margin-bottom: px;
+}
+
+.section_4 .top_heading h2{
+    font-family: 'poppins', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #1D2B4F;
+}
+
+.section_4 .top_heading p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: #798196;
+}
+
+.section_4 .section4_innerbox img{
+    margin: 30px;
+}
+
+.section_4 .section4_innerbox h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #1D2B4F;
+}
+
+.section_4 .row .col-md-9 p{
+    font-family: DM sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #5C6077;
+    background-color: #F8F8F8;
+    text-align: left;
+    margin: 30px;
+    padding: 30px;
+}
+
+.section_5 {
+    margin-top: 40px;
+}
+
+.section_5 .section_5_box {
+    background-image: url(../images/Group\ 148.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 428px;
+}
+
+.section_5 .section_5_box .innerbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.section_5 .section_5_box .innerbox span{
+    font-family: 'poppins', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: #FFFFFF;
+}
+
+.section_5 .section_5_box .innerbox h2{
+    font-family: 'poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    color: #FFFFFF;
+}
+
+
+.section_5 .section_5_box .innerbox p{
+    font-family: 'poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.section_5 .section_5_box .innerbox button{
+    font-family: 'poppins', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #049FF6;
+    width: 233px;
+    height: 41px;
+    border: none;
+    background-color: #FFFFFF;
+}
