@@ -1,0 +1,155 @@
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    .nav_bar_mobile .navbar {
+        background-color: #049ff6 !important;
+    }
+    .nav_bar {
+        display: none;
+    }
+    .nav_bar_mobile {
+        display: block;
+        position: absolute;
+        top: 0;
+        z-index: 999;
+        width: 400px;
+    }
+
+    .btn_section_nav button {
+        margin-left: 0px !important;
+    }
+    .contain_box .text-box h2 {
+        font-size: 12px;
+    }
+    .contain_box .text-box button {
+        padding: 2ppx 6px;
+    }
+    .contain_box .text-box::after {
+        width: 247px;
+        height: 226px;
+        right: 5px;
+    }
+    .img_box {
+        width: 50% !important;
+    }
+    .contain_box {
+        width: 50% !important;
+    }
+    .banner {
+        height: 530px;
+    }
+    .section_2 {
+        margin: 34px 0;
+    }
+    
+
+.section2_box {
+    margin: 10px auto;
+}
+.section_3 {
+    margin-top: 107px;
+}
+.section_3 .image_box_3::after {
+    width: 84px;
+    height: 343px;
+    left: 37px;
+}
+.section_3 .image_box_3 img {
+    width: 65%;
+    height: 281px;
+    z-index: 1;
+}
+.contain_3 {
+    width: 81%;
+    margin: 53px auto
+}
+.contain_3 span {
+    font-size: 12px;
+}
+.contain_3 h2 {
+    font-size: 17px;
+}
+.contain_3 .inner_contai_box .text_box p {
+    font-size: 14px;
+}
+.contain_3 .inner_contai_box .text_box h2 {
+    font-size: 16px;
+}
+.section_3 {
+    margin-top: 0;
+}
+.contain_3 h2 {
+    margin-bottom: 6px;
+}
+.section_3 .image_box_4::after {
+    width: 84px;
+    height: 343px;
+    left: 37px;
+}
+.section_3 .image_box_4 img {
+    width: 65%;
+    height: 281px;
+    z-index: 1;
+}
+.section_4 .top_heading h2 {
+    font-size: 22px;
+}
+.section_4 .top_heading p {
+    font-size: 12px;
+}
+.section_5 .section_5_box .innerbox {
+    width: 80%;
+    margin: 0 auto;
+}
+.section_5 .section_5_box .innerbox h2 {
+    font-size: 24px;
+}
+.section_5 .section_5_box .innerbox p {
+    font-size: 10px;
+}
+.section_6 .section_6_box h2 {
+    font-size: 17px;
+}
+.section_6_img_innerbox {
+    width: 50% !important;
+}
+.footer_section {
+    height: auto;
+}
+  }

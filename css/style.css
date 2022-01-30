@@ -20,6 +20,9 @@
     z-index: 999;
 }
 
+.nav_bar_mobile {
+    display: none;
+}
 
 .nav_bar nav ul{
     margin:0 147px;
